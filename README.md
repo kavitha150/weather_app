@@ -26,3 +26,6 @@ The Weather App is an Android application developed using **Java** in **Android 
 /github.com/user-attachments/assets/d2ab3cdb-8ab7-4c8d-88ec-8a8163ca7fd9)
 ![Screenshot (167)](https://github.com/use![Screenshot (168)](https://github.com/user-attachments/assets/713b6523-ce92-4b2b-ab18-0175d2bafe44)
 r-attachments/assets/cd75408b-de04-42e1-8c57-cf339cb36631)
+![Screenshot (167)](https://github.com/user-attachments/assets/61ebfdb5-1a26-4e47-a058-af4ff77dc9d0)
+![Screenshot (168)](https://github.com/user-attachments/assets/2e57bfab-acfc-46a1-916d-436be749b211)
+
